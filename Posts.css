@@ -1,0 +1,25 @@
+.post{
+    max-width: 500px;
+    background-color: white;
+    border:1px solid lightgray;
+    margin-bottom: 35px;
+}
+.username{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.post_header{
+    display:flex;
+    align-items: center;
+    padding: 10px;
+}
+.post_image {
+    width: 100%;
+    object-fit: contain;
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+}
+.post_text{  
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}

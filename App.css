@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+.app{
+  background-color: rgb(230, 233, 241);
+  height: 100%;
+}
+.app_header{
+  background-color: rgb(255, 255, 255);
+  border-bottom: 1px solid rgb(187, 194, 219);
+}
+.app_headerImage{
+ 
+  object-fit: contain;
+  height: 20%;
+  width:20%;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+
+}
