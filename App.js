@@ -19,7 +19,7 @@ useEffect(()=> {
       <img 
       className="app_headerImage"
       src={logoL}
-      alt="This is the logo"
+      alt="This is the Logo"
       />    
       </div>
       
